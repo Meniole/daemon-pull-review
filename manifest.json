@@ -31,5 +31,6 @@
         "type": "string"
       }
     }
-  }
+  },
+  "short_name": "Meniole/daemon-pull-review@development"
 }
